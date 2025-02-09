@@ -1,10 +1,10 @@
+
+# Computer_Vision_for_Autonomous_Vehicles
+This repository includes materials for the course CS4733/5733: Computer Vision for Autonomous Vehicles
+
 # Lab assignments and lectures
 We follow the lab assignments and lectures covered by VNAV course with minor change. For more detail, please check the VNAV opensource class at: https://ocw.mit.edu/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/
 
-
-# Computer_Vision_for_Autonomous_Vehicles
-
-This repository includes materials for the course CS4733/5733: Computer Vision for Autonomous Vehicles.
 
 # Docker for lab assignments
 - ROS version:https://github.com/oucompsci/rosdocker
